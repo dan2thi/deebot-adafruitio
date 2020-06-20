@@ -14,3 +14,9 @@ Uses maven to build this into a single executable jar file.
 # Remarks
 
 Best way to use this to set it up as a service in a dedicated always up VM or a raspberri pi.
+
+# Special Thanks
+
+Special thanks to William Pietri who figured out the protocol to communicate with Deebot vaccum robot.
+https://github.com/wpietri
+
